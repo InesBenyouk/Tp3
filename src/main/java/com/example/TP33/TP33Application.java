@@ -1,7 +1,7 @@
-package com.example.springmvc;
+package com.example.TP33;
 
-import com.example.springmvc.Entities.Patient;
-import com.example.springmvc.Repositories.PatientRepositery;
+import com.example.TP33.Entities.Patient;
+import com.example.TP33.Repositories.PatientRepositery;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
